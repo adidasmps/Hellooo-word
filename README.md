@@ -1,4 +1,4 @@
 Hellooo-word
 ============
 
-trying on this repo thing
+trying out this repo thing
